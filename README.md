@@ -1,1 +1,1 @@
-# WiDS-2023-datathon-project
+Capstone project at Shai data science track
